@@ -15,7 +15,7 @@
 - [A Cloud Guru — S3 Masterclass](https://acloud.guru/learn/s3-masterclass)
 - [A Cloud Guru — Introduction to Amazon RDS](https://acloud.guru/learn/aws-rds)
 - [Udemy — Amazon EC2 Masterclass (with Auto Scaling & Load Balancer)](https://www.udemy.com/course/aws-ec2-masterclass/)
-- [Udemy — AWS Certified Solutions Architect Associate 2019 (OPTIONAL)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+- [Udemy — AWS Certified Solutions Architect Associate 2020 (OPTIONAL)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 - [Udemy — AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
 
 ## AWS FAQs
