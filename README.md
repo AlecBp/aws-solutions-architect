@@ -1,9 +1,10 @@
 # Solutions Architect
-- [Guide to examp preparation](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
+- [Guide to exam preparation](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
 - [Linux Academy](https://linuxacademy.com/)
 - [Free course by ExamPro CEO](https://dev.to/exampro/the-free-aws-certified-solutions-architect-associate-study-course-275-videos-3412)
 - [ExamPro - Question Bank and practice tool](https://app.exampro.co/exams)
 - [Another guide for the exam preparation](https://medium.com/@qwe16165850/how-to-prepare-aws-solution-architect-associate-certification-exam-ac34be62ece9)
+- [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
 ## Extras
 - [Whizlabs - Labs and practice questions](https://www.whizlabs.com/)
